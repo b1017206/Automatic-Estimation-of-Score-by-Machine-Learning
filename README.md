@@ -4,10 +4,10 @@
 2019_quiz_kad.xml
 
 データ抽出
-shape_data
+attempttocsv3.py
 
 データ整形  
-ds010
+ds010.ipynb
 
 機械学習  
 RandomForest_gridsearch_gakusyuukyokusen_10_rate_add.ipynb
